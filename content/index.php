@@ -6,7 +6,7 @@ ini_set('display_errors', 'On');
 require("/opt/config/config.php");
 
 // Timezone
-date_default_timezone_set('America/Montreal');
+date_default_timezone_set('$timezone');
 
 // Get current IP address of the client
 $current_ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
