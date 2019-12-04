@@ -10,7 +10,7 @@ git clone https://github.com/mzac/mywifi.git mywifi
 
 ## Config
 
-Edit the config/config.php file and fill in the your information
+Edit the `config/config.php` file and fill in the your information
 
 ## Build
 
