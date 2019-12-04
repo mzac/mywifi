@@ -1,5 +1,8 @@
 <?php
 
+// Timezone Config
+$timezone               = "America/Montreal";
+
 // Clearpass Config
 $clearpass_server       = "clearpass.lab.local";
 $clearpass_user         = "appexternal";
