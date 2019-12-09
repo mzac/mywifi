@@ -1,6 +1,6 @@
 # mywifi
 
-This project is a work in progress and will let your users see their wifi info from Aruba Clearpass
+This project is a proof of conecpt and will let your users see their wifi info from Aruba Clearpass by logging into active directory with their credentials.  Ideally, the concept here could be integrated directly into Clearpass (Guest) without needing an external service to query the Clearpass database.
 
 ## Download
 
